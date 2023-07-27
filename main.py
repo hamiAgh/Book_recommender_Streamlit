@@ -23,7 +23,7 @@ with header:
 with app:
 
 
-    final_df = pd.read_csv('data/nineteen_cluster_df.csv')
+    final_df = pd.read_csv('/Users/hamidehaghaei/Final Project/Book Recommendation/nineteen_cluster_df.csv')
 
 
     def book_recommender(final_df):
